@@ -1,0 +1,74 @@
+body{
+  background-color: whitesmoke;
+}
+
+img{
+	max-width: 100%;
+	border: 2px #3c5566;
+}
+
+.navbar-inverse {
+	border-radius: 0%;
+	border: whitesmoke;
+}
+
+a.navbar-brand{
+	font-size: 20px;
+	font-weight: bold;
+	color: white!important;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: whitesmoke;
+}
+
+.container-fluid{
+	background-color: #3c5566;
+}
+
+.rating{
+	font-weight: bold;
+}
+
+.release{
+	font-weight: bold;
+}
+
+.eachMovie{
+	/* background-color: whitesmoke; */
+	color: #3c5566;
+}
+.btnModal{
+	/* background-color: whitesmoke; */
+	border: #3c5566;
+	padding-bottom: 10px;
+}
+.modal-content{
+	color: black;
+	padding: 2px;
+	min-width: 656px;
+}
+.moviePosterInModal{
+	padding: 12px;
+}
+
+.movieYt{
+	height:100%; width:100%; margin:0;
+}
+.movieName{
+	font-size: 30px;
+	font-weight: bold;
+	font-family: 'Carrois Gothic SC', sans-serif;
+}
+.btn-primary{
+	margin: 5px;
+	padding: 5px;
+	background: transparent;
+	color: #5EADFF;
+	border: 1px solid #5EADFF; 
+}
+#movieGenreLabel{
+	color: #3c5566;
+	font-family: 'Montserrat', sans-serif;
+	letter-spacing: 1px;
+}
